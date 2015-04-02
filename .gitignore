@@ -1,4 +1,3 @@
-
-src/Francois/images/icones/.DS_Store
-
-src/Francois/.DS_Store
+.idea/
+.virtualenv/
+*.pyc

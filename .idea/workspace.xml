@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fbab201-6680-4373-94e4-e0cadfaca247" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/world/AstronomicalObject.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/space/Barrack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/Building.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/utils/Bullet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/Camera.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/ConstructionBuilding.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/ground/Farm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/utils/Flag.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/world/Galaxy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/space/GatherShip.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/world/GazStack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/ground/GroundAttackUnit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/ground/GroundBuilderUnit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/ground/GroundBuilding.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/ground/GroundGatherUnit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/ground/GroundUnit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/space/HealingUnit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/utils/Helper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/ground/Lab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/ground/LandingZone.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/world/MineralStack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/space/MotherShip.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/utils/Notification.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/world/NuclearSite.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/space/NyanCat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/world/Planet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/utils/PlayerObject.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/world/SolarSystem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/space/SpaceAttackUnit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/space/SpaceBuilding.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/space/SpaceBuildingAttack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/space/SpaceUnit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/ground/SpecialGather.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/techtree/Tech.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/techtree/TechTree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/techtree/TechUpgrade.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/space/TransportShip.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/space/Turret.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/space/Utility.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/Wall.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/space/Waypoint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/world/WormHole.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/ground/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/building/space/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/techtree/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/ground/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/unit/space/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/world/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/__init__.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/Classes.vsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/GUIDE DE JEU.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/Planification du sprint 2.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/Planification globale.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/Proposition pour le jeu/Marc.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/Proposition pour le jeu/Proposition Francois.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/SCRUM 15 Novembre 2011.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/SCRUM 24 octobre 11.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/SCRUM du 3 novembre.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/Sans titre.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/Scrum 1 novembre 2011.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/Scrum 17 Novembre.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/Scrum 22 novembre 2011.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/Scrum 27 octobre.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/Sprint1.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/orionLog (2).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/orionLog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/orionLogEMile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/scrum18octobre.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/configuration.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/constants.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/core.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/errors.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/naming.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/nsc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/socketserver/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/socketserver/multiplexserver.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/socketserver/threadpoolserver.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/socketutil.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/test/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/test/echoserver.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/threadutil.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pyro4/util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python32/python-3.2.amd64.msi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Building.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Flag.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Helper.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/configuration.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/constants.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/core.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/errors.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/naming.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/nsc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/socketserver/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/socketserver/multiplexserver.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/socketserver/threadpoolserver.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/socketutil.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/test/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/test/echoserver.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/threadpool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/threadutil.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/utils/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/utils/flame.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pyro4/utils/flameserver.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TechTree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/World.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/src/Pyro4.egg-info/PKG-INFO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/src/Pyro4.egg-info/SOURCES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/src/Pyro4.egg-info/dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/src/Pyro4.egg-info/top_level.txt" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Client.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Game.py" afterPath="$PROJECT_DIR$/model/Game.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IA.py" afterPath="$PROJECT_DIR$/model/AI.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Player.py" afterPath="$PROJECT_DIR$/model/Player.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Server.py" afterPath="$PROJECT_DIR$/server.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Target.py" afterPath="$PROJECT_DIR$/model/utils/Target.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TechTree.xml" afterPath="$PROJECT_DIR$/model/techtree/TechTree.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Unit.py" afterPath="$PROJECT_DIR$/model/unit/Unit.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/View.py" afterPath="$PROJECT_DIR$/view/View.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/AttackCenter/FOWStation.gif" afterPath="$PROJECT_DIR$/images/Building/AttackCenter/FOWStation.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/AttackCenter/station0.gif" afterPath="$PROJECT_DIR$/images/Building/AttackCenter/station0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/AttackCenter/station1.gif" afterPath="$PROJECT_DIR$/images/Building/AttackCenter/station1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/AttackCenter/station2.gif" afterPath="$PROJECT_DIR$/images/Building/AttackCenter/station2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/AttackCenter/station3.gif" afterPath="$PROJECT_DIR$/images/Building/AttackCenter/station3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/AttackCenter/station4.gif" afterPath="$PROJECT_DIR$/images/Building/AttackCenter/station4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/AttackCenter/station5.gif" afterPath="$PROJECT_DIR$/images/Building/AttackCenter/station5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/AttackCenter/station6.gif" afterPath="$PROJECT_DIR$/images/Building/AttackCenter/station6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/AttackCenter/station7.gif" afterPath="$PROJECT_DIR$/images/Building/AttackCenter/station7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Farms/farm0.gif" afterPath="$PROJECT_DIR$/images/Building/Farms/farm0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Farms/farm1.gif" afterPath="$PROJECT_DIR$/images/Building/Farms/farm1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Farms/farm2.gif" afterPath="$PROJECT_DIR$/images/Building/Farms/farm2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Farms/farm3.gif" afterPath="$PROJECT_DIR$/images/Building/Farms/farm3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Farms/farm4.gif" afterPath="$PROJECT_DIR$/images/Building/Farms/farm4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Farms/farm5.gif" afterPath="$PROJECT_DIR$/images/Building/Farms/farm5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Farms/farm6.gif" afterPath="$PROJECT_DIR$/images/Building/Farms/farm6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Farms/farm7.gif" afterPath="$PROJECT_DIR$/images/Building/Farms/farm7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Labs/lab0.gif" afterPath="$PROJECT_DIR$/images/Building/Labs/lab0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Labs/lab1.gif" afterPath="$PROJECT_DIR$/images/Building/Labs/lab1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Labs/lab2.gif" afterPath="$PROJECT_DIR$/images/Building/Labs/lab2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Labs/lab3.gif" afterPath="$PROJECT_DIR$/images/Building/Labs/lab3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Labs/lab4.gif" afterPath="$PROJECT_DIR$/images/Building/Labs/lab4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Labs/lab5.gif" afterPath="$PROJECT_DIR$/images/Building/Labs/lab5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Labs/lab6.gif" afterPath="$PROJECT_DIR$/images/Building/Labs/lab6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Labs/lab7.gif" afterPath="$PROJECT_DIR$/images/Building/Labs/lab7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Turrets/FOWturret.gif" afterPath="$PROJECT_DIR$/images/Building/Turrets/FOWturret.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Turrets/turret0.gif" afterPath="$PROJECT_DIR$/images/Building/Turrets/turret0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Turrets/turret1.gif" afterPath="$PROJECT_DIR$/images/Building/Turrets/turret1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Turrets/turret2.gif" afterPath="$PROJECT_DIR$/images/Building/Turrets/turret2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Turrets/turret3.gif" afterPath="$PROJECT_DIR$/images/Building/Turrets/turret3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Turrets/turret4.gif" afterPath="$PROJECT_DIR$/images/Building/Turrets/turret4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Turrets/turret5.gif" afterPath="$PROJECT_DIR$/images/Building/Turrets/turret5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Turrets/turret6.gif" afterPath="$PROJECT_DIR$/images/Building/Turrets/turret6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Turrets/turret7.gif" afterPath="$PROJECT_DIR$/images/Building/Turrets/turret7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/UtilityCenter/FOWStation.gif" afterPath="$PROJECT_DIR$/images/Building/UtilityCenter/FOWStation.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/UtilityCenter/Station0.gif" afterPath="$PROJECT_DIR$/images/Building/UtilityCenter/Station0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/UtilityCenter/Station1.gif" afterPath="$PROJECT_DIR$/images/Building/UtilityCenter/Station1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/UtilityCenter/Station2.gif" afterPath="$PROJECT_DIR$/images/Building/UtilityCenter/Station2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/UtilityCenter/Station3.gif" afterPath="$PROJECT_DIR$/images/Building/UtilityCenter/Station3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/UtilityCenter/Station4.gif" afterPath="$PROJECT_DIR$/images/Building/UtilityCenter/Station4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/UtilityCenter/Station5.gif" afterPath="$PROJECT_DIR$/images/Building/UtilityCenter/Station5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/UtilityCenter/Station6.gif" afterPath="$PROJECT_DIR$/images/Building/UtilityCenter/Station6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/UtilityCenter/Station7.gif" afterPath="$PROJECT_DIR$/images/Building/UtilityCenter/Station7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Waypoints/FOWWaypoint.gif" afterPath="$PROJECT_DIR$/images/Building/Waypoints/FOWWaypoint.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Waypoints/waypoint0.gif" afterPath="$PROJECT_DIR$/images/Building/Waypoints/waypoint0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Waypoints/waypoint1.gif" afterPath="$PROJECT_DIR$/images/Building/Waypoints/waypoint1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Waypoints/waypoint2.gif" afterPath="$PROJECT_DIR$/images/Building/Waypoints/waypoint2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Waypoints/waypoint3.gif" afterPath="$PROJECT_DIR$/images/Building/Waypoints/waypoint3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Waypoints/waypoint4.gif" afterPath="$PROJECT_DIR$/images/Building/Waypoints/waypoint4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Waypoints/waypoint5.gif" afterPath="$PROJECT_DIR$/images/Building/Waypoints/waypoint5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Waypoints/waypoint6.gif" afterPath="$PROJECT_DIR$/images/Building/Waypoints/waypoint6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/Waypoints/waypoint7.gif" afterPath="$PROJECT_DIR$/images/Building/Waypoints/waypoint7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/construction.gif" afterPath="$PROJECT_DIR$/images/Building/construction.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Building/wormhole.gif" afterPath="$PROJECT_DIR$/images/Building/wormhole.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Galaxy/asteroid.gif" afterPath="$PROJECT_DIR$/images/Galaxy/asteroid.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Galaxy/asteroidFOW.gif" afterPath="$PROJECT_DIR$/images/Galaxy/asteroidFOW.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Galaxy/nebula.gif" afterPath="$PROJECT_DIR$/images/Galaxy/nebula.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Galaxy/nebulaFOW.gif" afterPath="$PROJECT_DIR$/images/Galaxy/nebulaFOW.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Galaxy/night-sky.gif" afterPath="$PROJECT_DIR$/images/Galaxy/night-sky.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Galaxy/planet.gif" afterPath="$PROJECT_DIR$/images/Galaxy/planet.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Galaxy/planetFOW.gif" afterPath="$PROJECT_DIR$/images/Galaxy/planetFOW.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Galaxy/rallyFlag.gif" afterPath="$PROJECT_DIR$/images/Galaxy/rallyFlag.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Galaxy/sun.gif" afterPath="$PROJECT_DIR$/images/Galaxy/sun.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Galaxy/sunFOW.gif" afterPath="$PROJECT_DIR$/images/Galaxy/sunFOW.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Menus/MainMenuBG.gif" afterPath="$PROJECT_DIR$/images/Menus/MainMenuBG.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Menus/cadreMenuAction.gif" afterPath="$PROJECT_DIR$/images/Menus/cadreMenuAction.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Menus/lobby.gif" afterPath="$PROJECT_DIR$/images/Menus/lobby.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Menus/scoreBG.gif" afterPath="$PROJECT_DIR$/images/Menus/scoreBG.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/GroundUnit/ground0.gif" afterPath="$PROJECT_DIR$/images/Planet/GroundUnit/ground0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/GroundUnit/ground1.gif" afterPath="$PROJECT_DIR$/images/Planet/GroundUnit/ground1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/GroundUnit/ground2.gif" afterPath="$PROJECT_DIR$/images/Planet/GroundUnit/ground2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/GroundUnit/ground3.gif" afterPath="$PROJECT_DIR$/images/Planet/GroundUnit/ground3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/GroundUnit/ground4.gif" afterPath="$PROJECT_DIR$/images/Planet/GroundUnit/ground4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/GroundUnit/ground5.gif" afterPath="$PROJECT_DIR$/images/Planet/GroundUnit/ground5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/GroundUnit/ground6.gif" afterPath="$PROJECT_DIR$/images/Planet/GroundUnit/ground6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/GroundUnit/ground7.gif" afterPath="$PROJECT_DIR$/images/Planet/GroundUnit/ground7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/GroundUnit/tank.gif" afterPath="$PROJECT_DIR$/images/Planet/GroundUnit/tank.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandedShips/landed0.gif" afterPath="$PROJECT_DIR$/images/Planet/LandedShips/landed0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandedShips/landed1.gif" afterPath="$PROJECT_DIR$/images/Planet/LandedShips/landed1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandedShips/landed2.gif" afterPath="$PROJECT_DIR$/images/Planet/LandedShips/landed2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandedShips/landed3.gif" afterPath="$PROJECT_DIR$/images/Planet/LandedShips/landed3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandedShips/landed4.gif" afterPath="$PROJECT_DIR$/images/Planet/LandedShips/landed4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandedShips/landed5.gif" afterPath="$PROJECT_DIR$/images/Planet/LandedShips/landed5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandedShips/landed6.gif" afterPath="$PROJECT_DIR$/images/Planet/LandedShips/landed6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandedShips/landed7.gif" afterPath="$PROJECT_DIR$/images/Planet/LandedShips/landed7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandingZones/landing0.gif" afterPath="$PROJECT_DIR$/images/Planet/LandingZones/landing0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandingZones/landing1.gif" afterPath="$PROJECT_DIR$/images/Planet/LandingZones/landing1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandingZones/landing2.gif" afterPath="$PROJECT_DIR$/images/Planet/LandingZones/landing2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandingZones/landing3.gif" afterPath="$PROJECT_DIR$/images/Planet/LandingZones/landing3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandingZones/landing4.gif" afterPath="$PROJECT_DIR$/images/Planet/LandingZones/landing4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandingZones/landing5.gif" afterPath="$PROJECT_DIR$/images/Planet/LandingZones/landing5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandingZones/landing6.gif" afterPath="$PROJECT_DIR$/images/Planet/LandingZones/landing6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/LandingZones/landing7.gif" afterPath="$PROJECT_DIR$/images/Planet/LandingZones/landing7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Robot/robot0.gif" afterPath="$PROJECT_DIR$/images/Planet/Robot/robot0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Robot/robot1.gif" afterPath="$PROJECT_DIR$/images/Planet/Robot/robot1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Robot/robot2.gif" afterPath="$PROJECT_DIR$/images/Planet/Robot/robot2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Robot/robot3.gif" afterPath="$PROJECT_DIR$/images/Planet/Robot/robot3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Robot/robot4.gif" afterPath="$PROJECT_DIR$/images/Planet/Robot/robot4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Robot/robot5.gif" afterPath="$PROJECT_DIR$/images/Planet/Robot/robot5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Robot/robot6.gif" afterPath="$PROJECT_DIR$/images/Planet/Robot/robot6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Robot/robot7.gif" afterPath="$PROJECT_DIR$/images/Planet/Robot/robot7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Special/special0.gif" afterPath="$PROJECT_DIR$/images/Planet/Special/special0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Special/special1.gif" afterPath="$PROJECT_DIR$/images/Planet/Special/special1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Special/special2.gif" afterPath="$PROJECT_DIR$/images/Planet/Special/special2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Special/special3.gif" afterPath="$PROJECT_DIR$/images/Planet/Special/special3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Special/special4.gif" afterPath="$PROJECT_DIR$/images/Planet/Special/special4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Special/special5.gif" afterPath="$PROJECT_DIR$/images/Planet/Special/special5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Special/special6.gif" afterPath="$PROJECT_DIR$/images/Planet/Special/special6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Special/special7.gif" afterPath="$PROJECT_DIR$/images/Planet/Special/special7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Tanks/tank.gif" afterPath="$PROJECT_DIR$/images/Planet/Tanks/tank.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Tanks/tank0.gif" afterPath="$PROJECT_DIR$/images/Planet/Tanks/tank0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Tanks/tank1.gif" afterPath="$PROJECT_DIR$/images/Planet/Tanks/tank1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Tanks/tank2.gif" afterPath="$PROJECT_DIR$/images/Planet/Tanks/tank2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Tanks/tank3.gif" afterPath="$PROJECT_DIR$/images/Planet/Tanks/tank3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Tanks/tank4.gif" afterPath="$PROJECT_DIR$/images/Planet/Tanks/tank4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Tanks/tank5.gif" afterPath="$PROJECT_DIR$/images/Planet/Tanks/tank5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Tanks/tank6.gif" afterPath="$PROJECT_DIR$/images/Planet/Tanks/tank6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/Tanks/tank7.gif" afterPath="$PROJECT_DIR$/images/Planet/Tanks/tank7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/background.gif" afterPath="$PROJECT_DIR$/images/Planet/background.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/crystal.gif" afterPath="$PROJECT_DIR$/images/Planet/crystal.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/gaz.gif" afterPath="$PROJECT_DIR$/images/Planet/gaz.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Planet/rad.gif" afterPath="$PROJECT_DIR$/images/Planet/rad.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Attackships/Attackship0.gif" afterPath="$PROJECT_DIR$/images/Ships/Attackships/Attackship0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Attackships/Attackship1.gif" afterPath="$PROJECT_DIR$/images/Ships/Attackships/Attackship1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Attackships/Attackship2.gif" afterPath="$PROJECT_DIR$/images/Ships/Attackships/Attackship2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Attackships/Attackship3.gif" afterPath="$PROJECT_DIR$/images/Ships/Attackships/Attackship3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Attackships/Attackship4.gif" afterPath="$PROJECT_DIR$/images/Ships/Attackships/Attackship4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Attackships/Attackship5.gif" afterPath="$PROJECT_DIR$/images/Ships/Attackships/Attackship5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Attackships/Attackship6.gif" afterPath="$PROJECT_DIR$/images/Ships/Attackships/Attackship6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Attackships/Attackship7.gif" afterPath="$PROJECT_DIR$/images/Ships/Attackships/Attackship7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Battlecruisers/battlecruiser0.gif" afterPath="$PROJECT_DIR$/images/Ships/Battlecruisers/battlecruiser0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Battlecruisers/battlecruiser1.gif" afterPath="$PROJECT_DIR$/images/Ships/Battlecruisers/battlecruiser1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Battlecruisers/battlecruiser2.gif" afterPath="$PROJECT_DIR$/images/Ships/Battlecruisers/battlecruiser2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Battlecruisers/battlecruiser3.gif" afterPath="$PROJECT_DIR$/images/Ships/Battlecruisers/battlecruiser3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Battlecruisers/battlecruiser4.gif" afterPath="$PROJECT_DIR$/images/Ships/Battlecruisers/battlecruiser4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Battlecruisers/battlecruiser5.gif" afterPath="$PROJECT_DIR$/images/Ships/Battlecruisers/battlecruiser5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Battlecruisers/battlecruiser6.gif" afterPath="$PROJECT_DIR$/images/Ships/Battlecruisers/battlecruiser6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Battlecruisers/battlecruiser7.gif" afterPath="$PROJECT_DIR$/images/Ships/Battlecruisers/battlecruiser7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Cargo/Cargo0.gif" afterPath="$PROJECT_DIR$/images/Ships/Cargo/Cargo0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Cargo/Cargo1.gif" afterPath="$PROJECT_DIR$/images/Ships/Cargo/Cargo1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Cargo/Cargo2.gif" afterPath="$PROJECT_DIR$/images/Ships/Cargo/Cargo2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Cargo/Cargo3.gif" afterPath="$PROJECT_DIR$/images/Ships/Cargo/Cargo3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Cargo/Cargo4.gif" afterPath="$PROJECT_DIR$/images/Ships/Cargo/Cargo4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Cargo/Cargo5.gif" afterPath="$PROJECT_DIR$/images/Ships/Cargo/Cargo5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Cargo/Cargo6.gif" afterPath="$PROJECT_DIR$/images/Ships/Cargo/Cargo6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Cargo/Cargo7.gif" afterPath="$PROJECT_DIR$/images/Ships/Cargo/Cargo7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Drones/drone0.gif" afterPath="$PROJECT_DIR$/images/Ships/Drones/drone0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Drones/drone1.gif" afterPath="$PROJECT_DIR$/images/Ships/Drones/drone1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Drones/drone2.gif" afterPath="$PROJECT_DIR$/images/Ships/Drones/drone2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Drones/drone3.gif" afterPath="$PROJECT_DIR$/images/Ships/Drones/drone3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Drones/drone4.gif" afterPath="$PROJECT_DIR$/images/Ships/Drones/drone4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Drones/drone5.gif" afterPath="$PROJECT_DIR$/images/Ships/Drones/drone5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Drones/drone6.gif" afterPath="$PROJECT_DIR$/images/Ships/Drones/drone6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Drones/drone7.gif" afterPath="$PROJECT_DIR$/images/Ships/Drones/drone7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Motherships/Mothership0.gif" afterPath="$PROJECT_DIR$/images/Ships/MotherShips/Mothership0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Motherships/Mothership1.gif" afterPath="$PROJECT_DIR$/images/Ships/MotherShips/Mothership1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Motherships/Mothership2.gif" afterPath="$PROJECT_DIR$/images/Ships/MotherShips/Mothership2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Motherships/Mothership3.gif" afterPath="$PROJECT_DIR$/images/Ships/MotherShips/Mothership3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Motherships/Mothership4.gif" afterPath="$PROJECT_DIR$/images/Ships/MotherShips/Mothership4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Motherships/Mothership5.gif" afterPath="$PROJECT_DIR$/images/Ships/MotherShips/Mothership5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Motherships/Mothership6.gif" afterPath="$PROJECT_DIR$/images/Ships/MotherShips/Mothership6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Motherships/Mothership7.gif" afterPath="$PROJECT_DIR$/images/Ships/MotherShips/Mothership7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Motherships/fowModo.gif" afterPath="$PROJECT_DIR$/images/Ships/MotherShips/fowModo.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Scoutships/Scoutship0.gif" afterPath="$PROJECT_DIR$/images/Ships/Scoutships/Scoutship0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Scoutships/Scoutship1.gif" afterPath="$PROJECT_DIR$/images/Ships/Scoutships/Scoutship1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Scoutships/Scoutship2.gif" afterPath="$PROJECT_DIR$/images/Ships/Scoutships/Scoutship2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Scoutships/Scoutship3.gif" afterPath="$PROJECT_DIR$/images/Ships/Scoutships/Scoutship3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Scoutships/Scoutship4.gif" afterPath="$PROJECT_DIR$/images/Ships/Scoutships/Scoutship4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Scoutships/Scoutship5.gif" afterPath="$PROJECT_DIR$/images/Ships/Scoutships/Scoutship5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Scoutships/Scoutship6.gif" afterPath="$PROJECT_DIR$/images/Ships/Scoutships/Scoutship6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Scoutships/Scoutship7.gif" afterPath="$PROJECT_DIR$/images/Ships/Scoutships/Scoutship7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Transport/Transport0.gif" afterPath="$PROJECT_DIR$/images/Ships/Transport/Transport0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Transport/Transport1.gif" afterPath="$PROJECT_DIR$/images/Ships/Transport/Transport1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Transport/Transport2.gif" afterPath="$PROJECT_DIR$/images/Ships/Transport/Transport2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Transport/Transport3.gif" afterPath="$PROJECT_DIR$/images/Ships/Transport/Transport3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Transport/Transport4.gif" afterPath="$PROJECT_DIR$/images/Ships/Transport/Transport4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Transport/Transport5.gif" afterPath="$PROJECT_DIR$/images/Ships/Transport/Transport5.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Transport/Transport6.gif" afterPath="$PROJECT_DIR$/images/Ships/Transport/Transport6.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/Transport/Transport7.gif" afterPath="$PROJECT_DIR$/images/Ships/Transport/Transport7.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/Ships/nyan-cat.gif" afterPath="$PROJECT_DIR$/images/Ships/nyan-cat.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/explosion.gif" afterPath="$PROJECT_DIR$/images/explosion.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/attack.gif" afterPath="$PROJECT_DIR$/images/icones/attack.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/attackUnit.gif" afterPath="$PROJECT_DIR$/images/icones/attackUnit.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/boutonChat.gif" afterPath="$PROJECT_DIR$/images/icones/boutonChat.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/boutonSelectedUnit.gif" afterPath="$PROJECT_DIR$/images/icones/boutonSelectedUnit.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/boutonTeam.gif" afterPath="$PROJECT_DIR$/images/icones/boutonTeam.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/boutonTrade.gif" afterPath="$PROJECT_DIR$/images/icones/boutonTrade.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/build.gif" afterPath="$PROJECT_DIR$/images/icones/build.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/cancelUnit.gif" afterPath="$PROJECT_DIR$/images/icones/cancelUnit.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/cargo.gif" afterPath="$PROJECT_DIR$/images/icones/cargo.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/flag.gif" afterPath="$PROJECT_DIR$/images/icones/flag.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/gifBarrack.gif" afterPath="$PROJECT_DIR$/images/icones/gifBarrack.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/gifBattleship.gif" afterPath="$PROJECT_DIR$/images/icones/gifBattleship.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/gifGather.gif" afterPath="$PROJECT_DIR$/images/icones/gifGather.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/gifNoWall.gif" afterPath="$PROJECT_DIR$/images/icones/gifNoWall.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/gifRepair.gif" afterPath="$PROJECT_DIR$/images/icones/gifRepair.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/gifUtility.gif" afterPath="$PROJECT_DIR$/images/icones/gifUtility.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/gifWall.gif" afterPath="$PROJECT_DIR$/images/icones/gifWall.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/iconeCheckSpace.gif" afterPath="$PROJECT_DIR$/images/icones/iconeCheckSpace.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/iconeDecollage.gif" afterPath="$PROJECT_DIR$/images/icones/iconeDecollage.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/iconeFarm.gif" afterPath="$PROJECT_DIR$/images/icones/iconeFarm.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/iconeFormationCarre.gif" afterPath="$PROJECT_DIR$/images/icones/iconeFormationCarre.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/iconeFormationTriangle.gif" afterPath="$PROJECT_DIR$/images/icones/iconeFormationTriangle.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/iconeGroundBuilder.gif" afterPath="$PROJECT_DIR$/images/icones/iconeGroundBuilder.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/iconeGroundGather.gif" afterPath="$PROJECT_DIR$/images/icones/iconeGroundGather.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/iconeMothership.gif" afterPath="$PROJECT_DIR$/images/icones/iconeMothership.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/iconeSpecial.gif" afterPath="$PROJECT_DIR$/images/icones/iconeSpecial.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/iconeTank.gif" afterPath="$PROJECT_DIR$/images/icones/iconeTank.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/iconeTech.gif" afterPath="$PROJECT_DIR$/images/icones/iconeTech.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/iconeTurret.gif" afterPath="$PROJECT_DIR$/images/icones/iconeTurret.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/iconeUnload.gif" afterPath="$PROJECT_DIR$/images/icones/iconeUnload.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/iconeWaypoint.gif" afterPath="$PROJECT_DIR$/images/icones/iconeWaypoint.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/move.gif" afterPath="$PROJECT_DIR$/images/icones/move.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/patrol.gif" afterPath="$PROJECT_DIR$/images/icones/patrol.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/return.gif" afterPath="$PROJECT_DIR$/images/icones/return.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/scout.gif" afterPath="$PROJECT_DIR$/images/icones/scout.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/stop.gif" afterPath="$PROJECT_DIR$/images/icones/stop.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/techUpgrade.gif" afterPath="$PROJECT_DIR$/images/icones/techUpgrade.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/transport.gif" afterPath="$PROJECT_DIR$/images/icones/transport.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/upB.gif" afterPath="$PROJECT_DIR$/images/icones/upB.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/upM.gif" afterPath="$PROJECT_DIR$/images/icones/upM.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/upU.gif" afterPath="$PROJECT_DIR$/images/icones/upU.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/upgradeBB.gif" afterPath="$PROJECT_DIR$/images/icones/upgradeBB.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/upgradeBM.gif" afterPath="$PROJECT_DIR$/images/icones/upgradeBM.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/upgradeD.gif" afterPath="$PROJECT_DIR$/images/icones/upgradeD.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/upgradeDB.gif" afterPath="$PROJECT_DIR$/images/icones/upgradeDB.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/upgradeDM.gif" afterPath="$PROJECT_DIR$/images/icones/upgradeDM.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/upgradePA.gif" afterPath="$PROJECT_DIR$/images/icones/upgradePA.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/upgradePV.gif" afterPath="$PROJECT_DIR$/images/icones/upgradePV.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/upgradeV.gif" afterPath="$PROJECT_DIR$/images/icones/upgradeV.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/upgradeVA.gif" afterPath="$PROJECT_DIR$/images/icones/upgradeVA.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/wormhole.gif" afterPath="$PROJECT_DIR$/images/icones/wormhole.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/icones/wormholeNOT.gif" afterPath="$PROJECT_DIR$/images/icones/wormholeNOT.gif" />
+    </list>
+    <ignored path="Orion-avec-cheveux.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Orion-avec-cheveux$Game.coverage" NAME="Game Coverage Results" MODIFIED="1427901613274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/Orion-avec-cheveux$Building.coverage" NAME="Building Coverage Results" MODIFIED="1427758471183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/building" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Orion-avec-cheveux" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2322" max-vertical-offset="8244">
+              <caret line="152" column="82" selection-start-line="152" selection-start-column="77" selection-end-line="152" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroundUnit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/unit/ground/GroundUnit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1188">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.75879395" vertical-offset="1977" max-vertical-offset="2574">
+              <caret line="135" column="20" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
+              <folding>
+                <element signature="e#24#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="View.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/View.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="18159" max-vertical-offset="46818">
+              <caret line="1031" column="60" selection-start-line="1031" selection-start-column="60" selection-end-line="1031" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TechUpgrade.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/techtree/TechUpgrade.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Planet.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/world/Planet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3744">
+              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroundAttackUnit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/unit/ground/GroundAttackUnit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
+              <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="1" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroundBuilderUnit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/unit/ground/GroundBuilderUnit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1044">
+              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroundGatherUnit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/unit/ground/GroundGatherUnit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2232">
+              <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpecialGather.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/unit/ground/SpecialGather.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1836">
+              <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/model/unit/Unit.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/model/building/Wall.py" />
+        <option value="$PROJECT_DIR$/model/unit/__init__.py" />
+        <option value="$PROJECT_DIR$/model/unit/ground/__init__.py" />
+        <option value="$PROJECT_DIR$/model/world/AstronomicalObject.py" />
+        <option value="$PROJECT_DIR$/model/world/GazStack.py" />
+        <option value="$PROJECT_DIR$/model/world/MineralStack.py" />
+        <option value="$PROJECT_DIR$/model/world/NuclearSite.py" />
+        <option value="$PROJECT_DIR$/model/world/__init__.py" />
+        <option value="$PROJECT_DIR$/model/world/WormHole.py" />
+        <option value="$PROJECT_DIR$/model/world/Galaxy.py" />
+        <option value="$PROJECT_DIR$/model/world/SolarSystem.py" />
+        <option value="$PROJECT_DIR$/model/AI.py" />
+        <option value="$PROJECT_DIR$/model/Camera.py" />
+        <option value="$PROJECT_DIR$/model/Game.py" />
+        <option value="$PROJECT_DIR$/model/Player.py" />
+        <option value="$PROJECT_DIR$/model/__init__.py" />
+        <option value="$PROJECT_DIR$/model/utils/__init__.py" />
+        <option value="$PROJECT_DIR$/model/utils/PlayerObject.py" />
+        <option value="$PROJECT_DIR$/model/utils/Bullet.py" />
+        <option value="$PROJECT_DIR$/model/building/ground/GroundBuilding.py" />
+        <option value="$PROJECT_DIR$/model/building/ground/Farm.py" />
+        <option value="$PROJECT_DIR$/model/building/ground/Lab.py" />
+        <option value="$PROJECT_DIR$/model/building/space/Barrack.py" />
+        <option value="$PROJECT_DIR$/model/building/ConstructionBuilding.py" />
+        <option value="$PROJECT_DIR$/model/building/__init__.py" />
+        <option value="$PROJECT_DIR$/model/building/space/MotherShip.py" />
+        <option value="$PROJECT_DIR$/model/building/space/SpaceBuilding.py" />
+        <option value="$PROJECT_DIR$/model/building/space/Turret.py" />
+        <option value="$PROJECT_DIR$/model/building/space/Utility.py" />
+        <option value="$PROJECT_DIR$/model/building/space/Waypoint.py" />
+        <option value="$PROJECT_DIR$/model/building/ground/__init__.py" />
+        <option value="$PROJECT_DIR$/model/building/ground/LandingZone.py" />
+        <option value="$PROJECT_DIR$/model/unit/space/__init__.py" />
+        <option value="$PROJECT_DIR$/model/unit/space/SpaceUnit.py" />
+        <option value="$PROJECT_DIR$/model/unit/Unit.py" />
+        <option value="$PROJECT_DIR$/model/unit/space/TransportShip.py" />
+        <option value="$PROJECT_DIR$/model/unit/space/GatherShip.py" />
+        <option value="$PROJECT_DIR$/model/unit/space/HealingUnit.py" />
+        <option value="$PROJECT_DIR$/model/unit/space/NyanCat.py" />
+        <option value="$PROJECT_DIR$/model/unit/space/SpaceAttackUnit.py" />
+        <option value="$PROJECT_DIR$/model/unit/space/SpaceBuildingAttack.py" />
+        <option value="$PROJECT_DIR$/model/unit/ground/GroundUnit.py" />
+        <option value="$PROJECT_DIR$/model/unit/ground/GroundAttackUnit.py" />
+        <option value="$PROJECT_DIR$/model/unit/ground/GroundBuilderUnit.py" />
+        <option value="$PROJECT_DIR$/model/unit/ground/GroundGatherUnit.py" />
+        <option value="$PROJECT_DIR$/model/unit/ground/SpecialGather.py" />
+        <option value="$PROJECT_DIR$/model/techtree/TechUpgrade.py" />
+        <option value="$PROJECT_DIR$/model/world/Planet.py" />
+        <option value="$PROJECT_DIR$/view/View.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/server.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="27" />
+    <option name="width" value="1368" />
+    <option name="height" value="742" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Orion-avec-cheveux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Orion-avec-cheveux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Orion-avec-cheveux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/testpackages" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/model/techtree" />
+      <recent name="$PROJECT_DIR$/model/utils" />
+      <recent name="$PROJECT_DIR$/model/world" />
+      <recent name="$PROJECT_DIR$/model/unit/ground" />
+      <recent name="$PROJECT_DIR$/model/unit/space" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Game">
+    <configuration default="false" name="Building" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model/building" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Orion-avec-cheveux" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/building/Building.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Orion-avec-cheveux" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Orion-avec-cheveux" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Orion-avec-cheveux" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Orion-avec-cheveux" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Orion-avec-cheveux" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Orion-avec-cheveux" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Orion-avec-cheveux" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Orion-avec-cheveux" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Orion-avec-cheveux" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Orion-avec-cheveux" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.Building" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Game" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.Game" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Building" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fbab201-6680-4373-94e4-e0cadfaca247" name="Default" comment="" />
+      <created>1427755260586</created>
+      <option name="number" value="Default" />
+      <updated>1427755260586</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1421875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18887262" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/model/world/WormHole.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29508197" vertical-offset="0" max-vertical-offset="612">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/world/GazStack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/world/AstronomicalObject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="990">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/world/Galaxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1692">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/world/SolarSystem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2430">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/AI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8568">
+          <caret line="118" column="44" selection-start-line="118" selection-start-column="44" selection-end-line="118" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/utils/Flag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61639345" vertical-offset="218" max-vertical-offset="828">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="789" max-vertical-offset="19098">
+          <caret line="61" column="69" selection-start-line="61" selection-start-column="69" selection-end-line="61" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/utils/Target.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/utils/PlayerObject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="774">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/utils/Bullet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="954">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Camera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2970">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0167503" vertical-offset="8138" max-vertical-offset="11232">
+          <caret line="519" column="4" selection-start-line="519" selection-start-column="4" selection-end-line="519" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/building/ground/GroundBuilding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/building/ground/Lab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
+          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/building/space/Barrack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/building/space/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/building/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/building/space/MotherShip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1962">
+          <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/building/space/SpaceBuilding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/building/space/Turret.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
+          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/building/ConstructionBuilding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="828">
+          <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/building/space/Utility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/building/space/Waypoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/building/ground/Farm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/building/ground/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/building/ground/LandingZone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50163937" vertical-offset="0" max-vertical-offset="1386">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/space/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/space/SpaceUnit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/Unit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2754">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/space/TransportShip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2808">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/space/GatherShip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1620">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/space/HealingUnit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/space/NyanCat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1242">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/space/SpaceAttackUnit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1386">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/space/SpaceBuildingAttack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/ground/GroundAttackUnit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="1" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/ground/GroundBuilderUnit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1044">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/ground/GroundGatherUnit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2232">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/ground/SpecialGather.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1836">
+          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/techtree/TechUpgrade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Ships/MotherShips/fowModo.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/world/Planet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3744">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icones/flag.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/View.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18159" max-vertical-offset="46818">
+          <caret line="1031" column="60" selection-start-line="1031" selection-start-column="60" selection-end-line="1031" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2322" max-vertical-offset="8244">
+          <caret line="152" column="82" selection-start-line="152" selection-start-column="77" selection-end-line="152" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/unit/ground/GroundUnit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1188">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75879395" vertical-offset="1977" max-vertical-offset="2574">
+          <caret line="135" column="20" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
+          <folding>
+            <element signature="e#24#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
